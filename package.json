@@ -1,0 +1,26 @@
+{
+  "name": "vscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "eslint": "^7.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tteokbokki-hater/coding-tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tteokbokki-hater/coding-tutorials/issues"
+  },
+  "homepage": "https://github.com/tteokbokki-hater/coding-tutorials#readme"
+}
